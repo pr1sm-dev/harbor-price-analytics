@@ -1,0 +1,65 @@
+{
+  "docs": [
+    {
+      "type": "bap",
+      "id": "39049579",
+      "main_search_key": "SEARCH_ID_BAP_ALL",
+      "heading": "Kartell Masters tuoli salvianvihreä",
+      "location": "Espoo, Lippajärvi-Järvenperä, Uusimaa",
+      "image": {
+        "url": "https://img.tori.net/dynamic/default/item/39049579/d372073a-37c9-4689-a432-6f32362a1271",
+        "path": "item/39049579/d372073a-37c9-4689-a432-6f32362a1271",
+        "height": 3920,
+        "width": 2948,
+        "aspect_ratio": 0.7520408163265306
+      },
+      "flags": [
+        "private"
+      ],
+      "timestamp": 1774775061000,
+      "coordinates": {
+        "lat": 60.26268,
+        "lon": 24.70022,
+        "accuracy": 5
+      },
+      "ad_type": 67,
+      "labels": [
+        {
+          "id": "private",
+          "text": "Yksityinen",
+          "type": "SECONDARY"
+        }
+      ],
+      "canonical_url": "https://www.tori.fi/recommerce/forsale/item/39049579",
+      "extras": [
+        {
+          "id": "brand",
+          "label": "",
+          "values": [
+            "Kartell"
+          ]
+        }
+      ],
+      "price": {
+        "amount": 100,
+        "currency_code": "EUR",
+        "price_unit": "€"
+      },
+      "distance": 0.0,
+      "trade_type": "Myydään",
+      "image_urls": [
+        "https://img.tori.net/dynamic/default/item/39049579/d372073a-37c9-4689-a432-6f32362a1271",
+        "https://img.tori.net/dynamic/default/item/39049579/d98f3d72-bb85-44c5-a093-7649e7508a0c",
+        "https://img.tori.net/dynamic/default/item/39049579/81c5041a-a597-449a-90cf-08acf6c4a64a",
+        "https://img.tori.net/dynamic/default/item/39049579/9fce0528-5212-4dfa-88fd-e5ff859fa0c7",
+        "https://img.tori.net/dynamic/default/item/39049579/8513db54-c849-4469-ae79-ccd3e9bf63ed",
+        "https://img.tori.net/dynamic/default/item/39049579/ac46d8de-c7f9-4168-865e-7584507da2cf",
+        "https://img.tori.net/dynamic/default/item/39049579/92caab38-6291-4fcd-93b7-d071b415f492",
+        "https://img.tori.net/dynamic/default/item/39049579/21703de7-4f77-44eb-a88b-48b92a0e719f",
+        "https://img.tori.net/dynamic/default/item/39049579/ba9fcf6d-b34a-444f-a3dd-8981c577c1aa",
+        "https://img.tori.net/dynamic/default/item/39049579/593e42df-1fe9-45ee-97d4-2028f7fa98ee"
+      ],
+      "brand": "Kartell",
+      "ad_id": 39049579
+  ]
+}
